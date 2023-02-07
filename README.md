@@ -2,22 +2,22 @@
 
 ### Simple Todo List with technology stack NodeJs, ReactJs, Mysql, JWT, Javascript
 
-## Database
+## For Database
 
 Database dump in database_schema directory
 
-## Backend - NodeJs, Mysql, JWT
+## For Backend - NodeJs, Mysql, JWT
 
 Install all package `npm i`   
 
-Run `npm run dev`
+then Run `npm run dev` to get started with Backend
 
 
-## Frontend - ReactJs
+## For Frontend - ReactJs
 
-Install all package   
-`cd frontend`     
+  
+goto frontend directory `cd frontend`     
 
-`npm i`
+Install all package  `npm i`
 
 Run `npm start`
